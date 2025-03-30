@@ -23,3 +23,7 @@
 #### Projetos
 
 * Em projetos nesse repositório, estamos utilizando a ferramenta Kanban, esse é um método enxuto para gerenciar e melhorar o trabalho em sistemas humanos. Essa abordagem visa gerenciar o trabalho equilibrando as demandas com a capacidade disponível e melhorando a organização do projeto.
+
+#### Licença
+
+* Este projeto é distribuído sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
