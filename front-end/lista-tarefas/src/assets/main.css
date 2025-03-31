@@ -38,7 +38,7 @@ input[type="text"] {
 
 input[type="text"]:focus {
   outline: none;
-  border: 1px solid #4ec5c1;
+  border: 1px solid #007bff50;
 }
 
 button {
@@ -98,7 +98,7 @@ task
 
 .clearBtns button {
   width: 100%;
-  background: #4ec5c1;
+  background: #007bff;
   color: #fff;
   border: none;
   border-radius: 10px;

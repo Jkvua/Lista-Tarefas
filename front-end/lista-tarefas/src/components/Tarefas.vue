@@ -119,7 +119,7 @@
     background: none; /* Removendo o fundo */
     border: none; /* Removendo a borda */
     font-size: 30px;  /* Tamanho do símbolo + */
-    color: #007bff;  /* Cor do símbolo */
+    color: #007bffc0;  /* Cor do símbolo */
     cursor: pointer;
     padding: 0;  /* Removendo o padding */
     display: inline-flex;
@@ -171,7 +171,7 @@
     margin-top: 10px;
     padding: 10px;
     border: none;
-    background: #007bff;
+    background: #007bffbe;
     color: white;
     cursor: pointer;
     border-radius: 20px;
