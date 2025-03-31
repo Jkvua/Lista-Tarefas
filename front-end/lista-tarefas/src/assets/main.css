@@ -134,7 +134,7 @@ task items
 }
 
 .taskItems button:hover {
-  color: #4ec5c1;
+  color: #007bff;
 }
 
 .taskItems .toggle i {
