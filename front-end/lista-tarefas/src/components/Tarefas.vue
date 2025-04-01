@@ -84,7 +84,8 @@
   
   <style>
   body {
-    background-color: #f8f9fa;
+    background-image: linear-gradient(#84c1dd, #b6e0eb, #70b6df);
+    /* background-color: #3b8ddf; */
     font-family: Arial, sans-serif;
     justify-content: center;
     align-items: center;
@@ -98,7 +99,7 @@
     border: 2px solid #ddd;
     border-radius: 20px;
     padding: 20px;
-    background: white;
+    background: rgb(255, 255, 255);
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   }
   .title h1 {
